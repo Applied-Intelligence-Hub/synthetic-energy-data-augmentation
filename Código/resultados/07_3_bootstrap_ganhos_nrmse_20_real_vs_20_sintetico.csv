@@ -1,0 +1,10 @@
+metrica;valor
+total_divisoes;5,0
+total_edificios_analisados;25,0
+ganho_mediano_geral_nrmse_pct;65,675553811806
+ganho_medio_divisoes_nrmse_pct;58,66593896697573
+desvio_entre_divisoes_nrmse_pct;24,805689333597506
+ic95_inferior;36,263325493136946
+ic95_superior;74,42637302183581
+percentagem_divisoes_melhoria_maioritaria;100,0
+percentagem_media_edificios_com_melhoria;88,0
