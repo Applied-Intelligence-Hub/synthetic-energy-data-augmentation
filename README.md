@@ -18,4 +18,15 @@ The research evaluates the impact of complementing limited historical training d
 
 
 **Main Findings**
+
 The effect of synthetic data augmentation is task-dependent. In forecasting, the synthetic reinforcement successfully reduced the prediction error compared to using only scarce real data, although it did not show a statistically significant advantage over the white noise control scenario. In anomaly detection, adding synthetic data degraded the model's F1-score primarily due to a drop in recall, indicating the model missed more true anomalies.
+
+| Folder | Contents |
+|---|---|
+| `scripts/` | the eleven pipeline scripts |
+| `data/` | `weather.csv`; `electricity_cleaned.csv` must be downloaded from BDG2 |
+| `resultados/` | outputs of the run behind the tables and figures in the thesis |
+| `resultados_verificacao/` | outputs of the verification run and the sensitivity analyses |
+| `figuras/` | figures produced by the scripts |
+
+Installation, execution and reproduction instructions are in the [README inside `Código/`](Código/README.md).
