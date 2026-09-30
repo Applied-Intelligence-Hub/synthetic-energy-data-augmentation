@@ -3,6 +3,8 @@ This repository contains the experimental pipeline, code, and data for the MSc t
 
 The research evaluates the impact of complementing limited historical training data—specifically 5%, 10%, and 20% availability scenarios—with synthetic time series. The experiments utilize education buildings from the Building Data Genome Project 2 (BDG2) dataset and enforce a strict separation between the buildings used to calibrate the generator and those used for final evaluation.
 
+<p align="center"><img src="Código/figuras/fluxograma_metodologia.png" width="90%"/></p>
+
 **Methodology and Models**
 
 * **Synthetic Generator:** A statistical-temporal approach that combines average hourly and weekly profiles, outdoor temperature effects, and an AR(1) residual component with temporal dependence.
