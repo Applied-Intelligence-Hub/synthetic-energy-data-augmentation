@@ -1,0 +1,7 @@
+comparacao_cenario;n_divisoes;n_divisoes_significativas;percentagem_divisoes_significativas;fisher_chi2;fisher_graus_liberdade;p_valor_fisher;significativo_fisher_0_05;tamanho_efeito_medio_r;classificacao_efeito_r;melhoria_media_nrmse_pct;rotulo_cenario
+5% real vs sintetico;5;0;0,0;22,7561;10;0,0117;Sim;0,808;Forte;63,69;5% de dados
+10% real vs sintetico;5;0;0,0;27,7259;10;0,002;Sim;0,9045;Forte;70,78;10% de dados
+20% real vs sintetico;5;0;0,0;22,7561;10;0,0117;Sim;0,808;Forte;53,57;20% de dados
+5% ruido vs sintetico;5;0;0,0;10,1668;10;0,426;Não;0,4462;Moderado;-17,12;5% sintético vs ruído
+10% ruido vs sintetico;5;0;0,0;11,1884;10;0,343;Não;0,4703;Moderado;-20,49;10% sintético vs ruído
+20% ruido vs sintetico;5;0;0,0;10,0186;10;0,4389;Não;0,4462;Moderado;-19,69;20% sintético vs ruído
