@@ -71,7 +71,7 @@ As dependências podem ser instaladas com:
 python -m pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn prophet
 ```
 
-As versões exatas das bibliotecas usadas na execução de verificação constam do ficheiro `versoes_ambiente.txt`, incluído nesta pasta (Código/). Para uma reprodução integral, devem ser usadas essas versões:
+As versões exatas das bibliotecas usadas na execução de verificação constam do ficheiro `versoes_ambiente.txt`, incluído nesta pasta `Código/`. Para uma reprodução integral, devem ser usadas essas versões:
 
 ```bash
 python -m pip install -r versoes_ambiente.txt
